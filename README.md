@@ -3,7 +3,9 @@ learning how reactjs works
 
 ## workspace
 Ubuntu
+
 Terminator - Ubuntu app
+
 mscode
 
 
