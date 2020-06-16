@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/theWhiteFox/reactjs-basics/issues"
   },
-  "homepage": "https://github.com/theWhiteFox/reactjs-basics#readme",
+  "homepage": "https://theWhiteFox.github.io/reactjs-basics/gh-pages",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^8.0.6",
