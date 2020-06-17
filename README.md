@@ -1,5 +1,5 @@
 # React from basics to adavanced 
-learning how [React](https://reactjs.org/docs/getting-started.html) works
+practically learning how [React](https://reactjs.org/docs/getting-started.html) works
 
 ## Workspace
 Lappy: MacBook Pro 
