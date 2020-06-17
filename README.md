@@ -22,3 +22,8 @@
 [medium freecodecamp react is taking over front end why-40837af8ab76](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 
 [5 things to learn before learning React](https://www.oreilly.com/ideas/5-things-to-learn-before-learning-reac
+
+
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| Foo         | Bar         |
