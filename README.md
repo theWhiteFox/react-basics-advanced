@@ -1,8 +1,8 @@
 # React from basics to adavanced 💣
 💥 Practically Learning how [React](https://reactjs.org/docs/getting-started.html) works
 
-## Workspace 🎁
-| <!-- -->                      | <!-- -->                |
+
+| ## Workspace 🎁                    | <!-- -->                |
 |-------------------------------|-------------------------|
 | 👜 Lappy: MacBook Pro         | 🏝️ macOS: Mojave        |
 | 🐚 CLI: iTerm - zsh           | 📓 Editor: MScode     |
