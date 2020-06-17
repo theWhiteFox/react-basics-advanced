@@ -2,19 +2,15 @@
 💥 Practically Learning how [React](https://reactjs.org/docs/getting-started.html) works
 
 ## Workspace 🎁
-👜 Lappy: MacBook Pro 
 
-🏝️ macOS: Mojave
 
-🐚 CLI: iTerm - zsh 
 
-📓 Editor: MScode
 
-📔 Online Editor: [prose.io](http://prose.io/)
 
-⛪ Browser: [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/)
 
-🏭 Deployment: [Netlify](https://www.netlify.com/)
+
+
+
 
 ## Links
 [github facebook react](https://github.com/facebook/react/)
@@ -24,6 +20,11 @@
 [5 things to learn before learning React](https://www.oreilly.com/ideas/5-things-to-learn-before-learning-reac
 
 
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| Foo         | Bar         |
+| <!-- -->                      | <!-- -->                |
+|-------------------------------|-------------------------|
+| 👜 Lappy: MacBook Pro         | 🏝️ macOS: Mojave        |
+| 🐚 CLI: iTerm - zsh           | 📓 Editor: MScode     |
+| 📔 Online Editor: [prose.io](http://prose.io/)       | ⛪ Browser: [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/)       |
+| 🏭 Deployment: [Netlify](https://www.netlify.com/)        |       |
+
+
