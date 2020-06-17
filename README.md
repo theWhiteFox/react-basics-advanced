@@ -1,24 +1,24 @@
-# reactjs-basics
-learning how reactjs works
+# react from basics to adavanced 
+learning how [React](https://reactjs.org/docs/getting-started.html) works
 
 ## workspace
-Ubuntu
+Lappy: MacBook Pro 
 
-Terminator - Ubuntu app
+MacOS: Mojave
 
-mscode
+CLI: iTerm - zsh 
 
+Editor: MScode
+
+Online Editor: [prose.io](http://prose.io/)
+
+Browser: [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/)
+
+Deployment: [Netlify](https://www.netlify.com/)
 
 ## links
-[reactjs](https://reactjs.org/)
-
 [github facebook react](https://github.com/facebook/react/)
 
 [medium freecodecamp react is taking over front end why-40837af8ab76](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 
-[5 things to learn before learning React](https://www.oreilly.com/ideas/5-things-to-learn-before-learning-react)
-
-
-[create react app with github pages](https://github.com/facebook/create-react-app)
-
-
+[5 things to learn before learning React](https://www.oreilly.com/ideas/5-things-to-learn-before-learning-reac
