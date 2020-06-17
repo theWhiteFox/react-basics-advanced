@@ -1,4 +1,4 @@
-# react from basics to adavanced 
+# React from basics to adavanced 
 learning how [React](https://reactjs.org/docs/getting-started.html) works
 
 ## workspace
