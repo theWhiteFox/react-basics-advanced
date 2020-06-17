@@ -1,20 +1,20 @@
-# 💥 React from basics to adavanced 
-Practically Learning how [React](https://reactjs.org/docs/getting-started.html) works
+# React from basics to adavanced 💣
+💥 Practically Learning how [React](https://reactjs.org/docs/getting-started.html) works
 
-## Workspace
-Lappy: MacBook Pro 
+## Workspace 🎁
+👜 Lappy: MacBook Pro 
 
-macOS: Mojave
+🏝️ macOS: Mojave
 
-CLI: iTerm - zsh 
+🐚 CLI: iTerm - zsh 
 
-Editor: MScode
+📓 Editor: MScode
 
-Online Editor: [prose.io](http://prose.io/)
+📔 Online Editor: [prose.io](http://prose.io/)
 
-Browser: [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/)
+⛪ Browser: [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/)
 
-Deployment: [Netlify](https://www.netlify.com/)
+🏭 Deployment: [Netlify](https://www.netlify.com/)
 
 ## Links
 [github facebook react](https://github.com/facebook/react/)
