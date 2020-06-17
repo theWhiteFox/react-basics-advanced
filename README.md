@@ -1,10 +1,10 @@
 # React from basics to adavanced 
 learning how [React](https://reactjs.org/docs/getting-started.html) works
 
-## workspace
+## Workspace
 Lappy: MacBook Pro 
 
-MacOS: Mojave
+macOS: Mojave
 
 CLI: iTerm - zsh 
 
@@ -16,7 +16,7 @@ Browser: [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/)
 
 Deployment: [Netlify](https://www.netlify.com/)
 
-## links
+## Links
 [github facebook react](https://github.com/facebook/react/)
 
 [medium freecodecamp react is taking over front end why-40837af8ab76](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
