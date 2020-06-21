@@ -1,4 +1,4 @@
-# React from basics to adavanced 💣
+# React basics to adavanced 💣
 💥 Practically Learning how [React](https://reactjs.org/docs/getting-started.html) works
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/caab6502-0e83-46ba-b7a9-c6c18cd62f94/deploy-status)](https://app.netlify.com/sites/learning-react-basics-advanced/deploys)
