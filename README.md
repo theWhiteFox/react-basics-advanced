@@ -6,6 +6,7 @@
 1. Getting up and running 
 2. Components
 3. Props
+4. State
 
 | Workspace 🎁                  |                         |
 |:------------------------------|-------------------------|
