@@ -30,15 +30,14 @@ class App extends React.Component {
 
   // React says we have to define render !!
   render() {
-    return ( 
-      <div>
-      Latitude:{this.state.lat} 
-      <br />
-      Error: {this.state.errorMessage } 
+    return (
+      <div>lat: { this.state.lat}
+        <br />
+        err: { this.state.errorMessage}
       </div>
-    );
+    )
   }
 }
 
 // Take the react component and display it
-ReactDOM.render( < App / > , document.querySelector('#root'));
+ReactDOM.render(< App />, document.querySelector('#root'));
