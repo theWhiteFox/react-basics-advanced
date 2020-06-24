@@ -16,6 +16,8 @@
 | 🏭 Deployment: [Netlify](https://www.netlify.com/)        |       |
 
 ## Links
+[https://babeljs.io/](https://babeljs.io/)
+
 [react-component](https://reactjs.org/docs/react-component.html)
 
 [state-and-lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
