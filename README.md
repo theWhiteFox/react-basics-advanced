@@ -16,8 +16,12 @@
 | 🏭 Deployment: [Netlify](https://www.netlify.com/)        |       |
 
 ## Links
+[react-component](https://reactjs.org/docs/react-component.html)
+
+[state-and-lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+
 [github facebook react](https://github.com/facebook/react/)
 
-[medium freecodecamp react is taking over front end why-40837af8ab76](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
+[medium freecodecamp react is taking over front end why](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 
 [5 things to learn before learning React](https://www.oreilly.com/content/5-things-to-learn-before-learning-react/)
