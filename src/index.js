@@ -1,44 +1,41 @@
 // Import the React and ReactDOM libraries
 import React from 'react';
 import ReactDOM from 'react-dom';
+import SeasonDisplay from './SeasonDisplay';
+import Spinner from './Spinner';
 
 // Create a react component
 class App extends React.Component {
-  constructor(props) {
-    super(props);
 
-    // only direct assignment to state
-    this.state = {
-      lat: null,
-      errorMessage: ''
-    };
+  // babel creates the constructor
+  state = { lat: null, errorMessage: '' }
 
+  componentDidMount() {
     window.navigator.geolocation.getCurrentPosition(
-      (position) => {
-        // to update object called setstate
-        this.setState({
-          lat: position.coords.latitude
-        });
-      },
-      (err) => {
-        this.setState({
-          errorMessage: err.message
-        });
-      }
+      (position) => this.setState({ lat: position.coords.latitude }),
+      (err) => this.setState({ errorMessage: err.message })
     );
   }
 
-  // React says we have to define render !!
-  render() {
+  renderContent() {
     if (this.state.errorMessage && !this.state.lat) {
       return <div>Err: {this.state.errorMessage} </div>;
     }
 
     if (!this.state.errorMessage && this.state.lat) {
-      return <div>Lat: {this.state.lat} </div>;
+      return <SeasonDisplay lat={this.state.lat} />
     }
 
-    return <div>Loading!</div>
+    return <Spinner message="Please accept location request" />
+  }
+
+  // React says we have to define render !!
+  render() {
+    return (
+      <div className="border red">
+        {this.renderContent()}
+      </div>
+    )
   }
 }
 
