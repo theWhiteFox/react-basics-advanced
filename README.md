@@ -6,7 +6,7 @@
 |                  |         |
 |-----------------------|----|
 |Getting up and running | setState |
-|Components| |Props |
+|Components| Props |
 |State| constructor|
 |class components | functionial components |
 |component method | render method |
