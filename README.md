@@ -3,10 +3,13 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/caab6502-0e83-46ba-b7a9-c6c18cd62f94/deploy-status)](https://app.netlify.com/sites/learning-react-basics-advanced/deploys)
 
-1. Getting up and running 
-2. Components
-3. Props
-4. State
+
+|----------------------- | ---- |
+|Getting up and running | setState |
+|Components| |Props |
+|State| constructor|
+|class components | functionial components |
+
 
 | Workspace 🎁                  |                         |
 |:------------------------------|-------------------------|
