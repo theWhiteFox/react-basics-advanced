@@ -33,3 +33,5 @@
 [5 things to learn before learning React](https://www.oreilly.com/content/5-things-to-learn-before-learning-react/)
 
 [https://reactjs.org/docs/forms.html](https://reactjs.org/docs/forms.html)
+
+[https://reactjs.org/docs/uncontrolled-components.html](https://reactjs.org/docs/uncontrolled-components.html)
