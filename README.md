@@ -31,3 +31,5 @@
 [medium freecodecamp react is taking over front end why](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 
 [5 things to learn before learning React](https://www.oreilly.com/content/5-things-to-learn-before-learning-react/)
+
+[https://reactjs.org/docs/forms.html](https://reactjs.org/docs/forms.html)
