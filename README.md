@@ -38,3 +38,9 @@
 [https://reactjs.org/docs/uncontrolled-components.html](https://reactjs.org/docs/uncontrolled-components.html)
 
 [axios](https://github.com/axios/axios)
+
+
+### bugs
+
+npm install autoprefixer@9.8.0
+
