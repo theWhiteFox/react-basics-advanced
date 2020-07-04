@@ -14,6 +14,7 @@
 
 ## Workspace 🎁 
 
+|                       |    |    | 
 |-----------------------|----|----|
 | 👜 Lappy: MacBook Pro | 🏝️ macOS: Mojave | 🐚 CLI: iTerm - zsh | 📓 Editor: MScode  |
 📔 Online Editor: [prose.io](http://prose.io/) | ⛪ Browser: [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/) | 🏭 Deployment: [Netlify](https://www.netlify.com/)  |       
