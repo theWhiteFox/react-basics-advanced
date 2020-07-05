@@ -42,7 +42,7 @@
 [https://reactjs.org/docs/refs-and-the-dom.html](https://reactjs.org/docs/refs-and-the-dom.html)
 
 
-### bugs
+### bug fix
 
 npm install autoprefixer@9.8.0
 
