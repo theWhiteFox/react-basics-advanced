@@ -41,6 +41,7 @@
 
 [https://reactjs.org/docs/refs-and-the-dom.html](https://reactjs.org/docs/refs-and-the-dom.html)
 
+[https://www.freecodecamp.org/news/learn-react-basics/](https://www.freecodecamp.org/news/learn-react-basics/)
 
 ### bug fix
 
